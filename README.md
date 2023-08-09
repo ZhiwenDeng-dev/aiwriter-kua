@@ -1,6 +1,6 @@
 
 
-<h1 align="center">欢迎来到 kua.aigenprompt.com</h1>
+<h1 align="center">欢迎来到 kua.heipig.com</h1>
 <h2 align="center">跨境电商 ChatGPT 提示词生成器</h2>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" target="_blank">

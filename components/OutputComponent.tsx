@@ -83,7 +83,7 @@ const OutputComponent: React.FC<OutputComponentProps> = ({generatedOutput, onCle
                                 
                                 <div
                                     className="w-4/5 mx-auto mt-12 text-gray-900 bg-white border border-gray-200 p-4 rounded-md shadow-sm flex items-center justify-center">
-                                    <span className="font-normal"><a target="_blank"  rel="noopener " href='https://zhisuiai.com'>复制上方提示词，点击立即创作营销文案!</a></span>
+                                    <span className="font-normal"><a target="_blank"  rel="noopener " href='https://zhisuiai.com'>复制上方提示词，点击创作营销文案，为企业提升10倍效率！</a></span>
                                 </div>
 
                             </div>
@@ -93,7 +93,7 @@ const OutputComponent: React.FC<OutputComponentProps> = ({generatedOutput, onCle
                 ) : (
                     <div
                         className="w-4/5 mx-auto mt-12 text-gray-900 bg-white border border-gray-200 p-4 rounded-md shadow-sm flex items-center justify-center">
-                        <span className="text-lg font-normal">尚未生成</span>
+                        <span className="text-lg font-normal">请输入产品相关信息，生成提示词</span>
                     </div>
 
 
